@@ -12,3 +12,15 @@ For this assignment, we are provided with the `p1_charityml` folder containing t
 * `finding_donors.ipynb`: This is the main file where you will be performing your work on the project.
 * `census.csv`: The project dataset. You'll load this data in the notebook.
 * `visuals.py`: This Python script provides supplementary visualizations for the project.
+
+## Project 2 Image Classifier
+
+### Description
+Define and train a neural network in TensorFlow that learns to classify images; going from image data exploration to network training and evaluation.
+
+* [**102 Flowers Dataset**](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html)
+
+## Project 3 Identify Customer Segements with Arvato
+
+### Description
+Study a real dataset of customers for a company, and apply several unsupervised learning techniques in order to segment customers into similar groups and extract information that may be used for marketing or product improvement.
